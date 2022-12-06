@@ -130,7 +130,7 @@ lib_deps = https://github.com/me-no-dev/ESPAsyncWebServer.git
 - Async WebSocket plugin offering different locations without extra servers or ports
 - Async EventSource (Server-Sent Events) plugin to send events to the browser
 - URL Rewrite plugin for conditional and permanent url rewrites
-- ServeStatic plugin that supports cache, Last-Modified, default index and more
+- ServeStatic plugin that support cache, Last-Modified, default index and more
 - Simple template processing engine to handle templates
 
 ## Important things to remember
