@@ -131,7 +131,7 @@ lib_deps = https://github.com/me-no-dev/ESPAsyncWebServer.git
 - Async EventSource (Server-Sent Events) plugin to send events to the browser
 - URL Rewrite plugin for conditional and permanent url rewrites
 - ServeStatic plugin that support cache, Last-Modified, default index and more
-- Simple template processing engine to handle templates
+- Simple template processing engine to handle template
 
 ## Important things to remember
 - This is fully asynchronous server and as such does not run on the loop thread.
